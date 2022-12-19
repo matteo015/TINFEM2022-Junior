@@ -1,3 +1,3 @@
-# TINFEM2022-Junior
+# TINFEM2022 1º Ano
 
-Repositorio criado para guardar e posteriormente consultar exercicios/atividades do curso
+*Repositorio feito para guardar resoluções de atividades e exercicios do curso no formato de código fonte*
